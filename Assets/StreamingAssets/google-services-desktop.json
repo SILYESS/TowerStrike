@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780544107064",
+    "firebase_url": "https://towerstrike-8c114-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "towerstrike-8c114",
+    "storage_bucket": "towerstrike-8c114.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780544107064:android:2089bb3d0e1d5c41ccbccd",
+        "android_client_info": {
+          "package_name": "com.byrsastudio.towerstrike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780544107064-7g2pq9a09jhpd4634ip1q6erdng5luo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-A_WBtqUg8ZJxo0zMBmwwvNoTzAwhXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780544107064-7g2pq9a09jhpd4634ip1q6erdng5luo0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780544107064-2j505okmbg0dgppr90rnlui04247090q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.byrsastudio.TowerStrike"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
